@@ -14,7 +14,7 @@ Data obtained from the [song popularity dataset](https://www.kaggle.com/yasserh/
 st.sidebar.header('User Input Features')
 
 st.sidebar.markdown("""
-bla bla
+Choose song features on scale from 0 to 1
 """)
 
 with open('columns.json') as f:
